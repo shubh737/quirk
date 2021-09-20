@@ -181,3 +181,11 @@ A small amount of data has been corrupted in a recoverable way. The user still h
 Quirk is licensed under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), which guarantees end users the freedom to study, share, and modify the software.
 
 Note that this license **does not** give free reign to redistribute the name and branding of quirk. So if you'd like to publish your own version, please rename it to avoid end-user confusion.
+
+I am sarvagya a student of whitehat jr.
+I learn coding.
+I love coding because that is a only thing which makes me statisfied with all my effort and works.
+i dont take it as a work.
+I take it as a responsibility.
+Thanks and bye.
+:) bye
